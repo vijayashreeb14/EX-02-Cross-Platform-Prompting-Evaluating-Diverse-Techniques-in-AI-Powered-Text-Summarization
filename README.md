@@ -1,5 +1,5 @@
 ## NAME: VIJAYASHREE B
-##1 REG NO: 212223040238
+## REG NO: 212223040238
 
 # EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
